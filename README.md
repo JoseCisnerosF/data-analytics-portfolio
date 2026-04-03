@@ -19,7 +19,7 @@ Soy Bachiller de Ingenieria economica con interés en análisis de datos, enfoca
 
 ## 📂 Proyectos
 
-* 📊 Análisis de datos ()
+* 📊 [Análisis de datos](https://github.com/JoseCisnerosF/data-analytics-portfolio/tree/main/Proyecto-1)
 * 🧠 Segmentación de clientes (próximamente)
 * 📈 Dashboard de ventas (próximamente)
 
